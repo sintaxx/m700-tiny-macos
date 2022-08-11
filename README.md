@@ -1,6 +1,7 @@
 # m700-tiny-macos
 
 - lenovo-m700-tiny-macos_big-sir-EFI
+- MacOS Version Big Sur
 - Intel(R) Core(TM) i5-6700T CPU
 - Intel Corporation HD Graphics 530 (rev 06)
 - Motherboard - Manufacturer: LENOVO
